@@ -17,6 +17,7 @@ Stay ahead of the curve with new graduate-level career opportunities.
 
 | Company | Role | Location | Apply Link |
 |----------|------|-----------|-------------|
+| 🔥 NVIDIA | Alliances Manager, Accelerated Compute Platform Software Ecosystem | Santa Clara, CA | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Alliances-Manager--Accelerated-Compute-Platform-Software-Ecosystem_JR2001956) |
 | San Mateo County Transit District | Senior Financial Analyst | San Mateo, CA | [Apply Here](https://www.linkedin.com/jobs/view/4295938295/?refId=UtjTIKLnrzgIHlIStvrqKA%3D%3D&trackingId=UtjTIKLnrzgIHlIStvrqKA%3D%3D) |
 
 [🔝 Back to Top](#hotjobs)
