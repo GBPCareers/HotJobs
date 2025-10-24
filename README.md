@@ -63,7 +63,7 @@ Connect directly with employers through company-hosted events and information se
 
 ---
 
-### 🧭 About This Page
+### About This Page
 This live resource is managed by the **Graduate Business Career Management Team**. 
 For questions or to share new opportunities, please contact **GBPcareers@scu.edu**. 
 
